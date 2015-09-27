@@ -1,0 +1,57 @@
+.logo{
+  background-color: #FEFEFE;
+  height: 50px;
+}
+.logolist{
+  float: left;
+  list-style: none;
+  background-color: #FEFEFE;
+}
+.logolist li{
+  display: inline-block;
+  padding: 10px;
+  color: #858585;
+  background-color: #FEFEFE;
+}
+.main{
+  background-image: url('img/background.jpg');
+  background-size: 100%;
+  height: 300px;
+}
+
+.main h1{
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+  padding-top: 115px;
+  line-height: 20px;
+}
+.types ul{
+  list-style: none;
+  text-align: center;
+
+}
+.personal{
+  width: 25%;
+  float: left;
+}
+.sb{
+  width: 25%;
+  float: left;
+}
+.enterprise{
+  width: 25%;
+  float: left;
+}
+.greenbox{
+  width: 100%;
+  text-align: center;
+}
+.bluebox{
+  width: 100%;
+  text-align: center;
+}
+.blackbox{
+  width: 100%;
+  text-align: center;
+}
