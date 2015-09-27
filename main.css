@@ -27,31 +27,80 @@
   line-height: 20px;
 }
 .types ul{
+  color: #677175;
   list-style: none;
   text-align: center;
+  font-size: 10px;
+  padding: 0;
+  
+
+}
+.types li{
+  border: 1px solid #EAEAEA;
+  background-color: #F7F7F7;
+  width: 100%;
+  margin: 0px;
+  line-height: 20px;
+}
+.types h1{
+  color: white;
+  font-size: 75px;
+  margin: 10px;
+}
+.types h2{
+  color: white;
+  font-size: 15px;
+  padding-top: 15px;
+}
+.types h3{
+  color: white;
+  font-size: 10px;
+  padding-bottom: 20px;
 
 }
 .personal{
   width: 25%;
   float: left;
+  margin:2.5%;
 }
 .sb{
   width: 25%;
   float: left;
+  margin:2.5%;
 }
 .enterprise{
   width: 25%;
   float: left;
+  margin:2.5%;
 }
 .greenbox{
   width: 100%;
   text-align: center;
+  background-color: #648C51;
 }
 .bluebox{
   width: 100%;
   text-align: center;
+  background-color: #2E4E83;
 }
 .blackbox{
   width: 100%;
   text-align: center;
+  background-color: #101010;
 }
+li.ch{
+  height:50px;
+  background-color: white;
+}
+.choose{
+  background-color: white;
+  text-align: center;
+  border: 1px solid gray;
+  width: 55px;
+  height: 20px;
+  border-radius: 40%;
+  margin: 15px 75px;
+  font-weight: bold;
+
+}
+
